@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="layout_header">false</item>
+    <item type="id" name="textview1">false</item>
+    <item type="id" name="layout_content">false</item>
+    <item type="id" name="layout_date">false</item>
+    <item type="id" name="date_value">false</item>
+    <item type="id" name="imageview">false</item>
+    <item type="id" name="fajr">false</item>
+    <item type="id" name="fajr_value">false</item>
+    <item type="id" name="Sunrise">false</item>
+    <item type="id" name="Sunrise_value">false</item>
+    <item type="id" name="Dhuhr">false</item>
+    <item type="id" name="Dhuhr_value">false</item>
+    <item type="id" name="Asr">false</item>
+    <item type="id" name="Asr_value">false</item>
+    <item type="id" name="Sunset">false</item>
+    <item type="id" name="Sunset_value">false</item>
+    <item type="id" name="Maghrib">false</item>
+    <item type="id" name="Maghrib_value">false</item>
+    <item type="id" name="Isha">false</item>
+    <item type="id" name="Isha_value">false</item>
+</resources>
